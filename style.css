@@ -477,17 +477,10 @@ position: absolute;
 
 /* BOTTOM FOOTER */
  #bottomfooter{
- 	position: relative;
 
-
-
-	background-color: gray;
-
-	height: 150px;
-	width: 200px;
 
  }
 #bottomfooter a{
-	font-size: 20px;
+
 
 }
